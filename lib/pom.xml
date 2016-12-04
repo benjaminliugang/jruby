@@ -21,7 +21,7 @@ DO NOT MODIFIY - GENERATED CODE
     <tesla.dump.readonly>true</tesla.dump.readonly>
     <jruby.plugins.version>1.1.2</jruby.plugins.version>
     <tesla.dump.pom>pom.xml</tesla.dump.pom>
-    <tesla.version>0.1.1</tesla.version>
+    <tesla.version>0.1.8</tesla.version>
   </properties>
   <dependencies>
     <dependency>
